@@ -10,7 +10,7 @@
 |Birthday|15/05|
 |Favorite color|Blue|
 |Favorit food|Pizza|
-|Pinneapple on pizza|It's a no from me|
+|Pinneapple on pizza|[ ] Yes [x] No|
 
 ## Hobbies
 - Playing around with miniature wargames, this includes but is not limited by :
@@ -40,4 +40,4 @@ I was part of the fighting group in the camp. One day we had a very big battle a
 ### TL;DR
 While larping were attacked by undead at 4a.m., undead got scared by screaming, giant hammer wielding, half-naked german goatman.
 
-[<< Previous](https://www.google.com/)||ANDREAS||[Next>>](https://www.google.com/)
+[<< Previous](https://github.com/Vittoria-P/markdown-challenge)||ANDREAS||[Next>>](https://github.com/LeAnsman/markdown-challenge)
