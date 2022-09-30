@@ -10,7 +10,7 @@
 |Birthday|15/05|
 |Favorite color|Blue|
 |Favorit food|Pizza|
-|Pinneapple on pizza|[ ] Yes [x] No|
+|Pinneapple on pizza|&#x2610; Yes <br /> &#x2612; No|
 
 ## Hobbies
 - Playing around with miniature wargames, this includes but is not limited by :
